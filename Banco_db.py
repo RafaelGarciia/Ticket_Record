@@ -1,4 +1,5 @@
 # http://pythonclub.com.br/gerenciando-banco-dados-sqlite3-python-parte1.html
+
 import sqlite3
 from sqlite3 import Error
 import os

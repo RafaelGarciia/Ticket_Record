@@ -4,6 +4,7 @@ from tkinter import filedialog
 import os
 from Banco_db import Banco
 
+
 pastaApp = os.path.dirname(__file__)
 db = Banco()
 db.path = pastaApp
